@@ -7,9 +7,9 @@
 
 ## Images / Imágenes
 ![Quadruped](images/Quadruped.jpg)
-![Quadruped](images/quadruped2.jpg)
+![Quadruped 2](images/quadruped 2.jpg)
 ![Computer](images/Computer.jpg)
-![First versiónn of the body](images/FirstVersion.jpg)
+![First versiónn of the body](images/First Version.jpg)
 
 ## Components / Componentes
 - ESP32
