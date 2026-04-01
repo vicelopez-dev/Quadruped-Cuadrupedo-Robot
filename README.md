@@ -7,7 +7,7 @@
 
 ## Images / Imágenes
 ![Quadruped](images/Quadruped.jpg)
-![Quadruped 2](images/quadruped_2.jpg)
+![Quadruped_2](images/quadruped2.jpg)
 ![Computer](images/Computer.jpg)
 ![First](images/First_Version.jpg)
 
